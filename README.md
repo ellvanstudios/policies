@@ -10,6 +10,8 @@ served via GitHub Pages.
 ```
 index.html                          landing page (app index)
 .nojekyll                           serve files as-is (no Jekyll processing)
+figureland/
+  privacy/index.html                /policies/figureland/privacy/
 voxel-builder/
   privacy/index.html                /policies/voxel-builder/privacy/
   support/index.html                /policies/voxel-builder/support/

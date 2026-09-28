@@ -10,6 +10,8 @@ served via GitHub Pages.
 ```
 index.html                          landing page (app index)
 .nojekyll                           serve files as-is (no Jekyll processing)
+floating-town/
+  privacy/index.html                /policies/floating-town/privacy/
 figureland/
   privacy/index.html                /policies/figureland/privacy/
   support/index.html                /policies/figureland/support/

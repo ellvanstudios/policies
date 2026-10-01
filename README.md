@@ -12,6 +12,8 @@ index.html                          landing page (app index)
 .nojekyll                           serve files as-is (no Jekyll processing)
 floating-town/
   privacy/index.html                /policies/floating-town/privacy/
+  pre-registration-reward/index.html
+                                    /policies/floating-town/pre-registration-reward/
 figureland/
   privacy/index.html                /policies/figureland/privacy/
   support/index.html                /policies/figureland/support/
